@@ -1,40 +1,41 @@
-# Mohammad Abdelfattah Al-Sqoor (محمد عبد الفتاح الصقور)
-> Business Development & Digital Marketing Lead at HexoVerse | Emerging Tech Startup Strategist
+# Mohammad Al-Sqour (محمد الصقور)
+> Business Development & Marketing Lead at HEXO Verse | Venture Builder & Emerging Tech Strategist
 
 ## Identity & Professional Overview
-- **Full Name:** Mohammad Abdelfattah Al-Sqoor (محمد عبد الفتاح الصقور)
-- **Known As:** Mohammad Al-Sqoor (محمد الصقور)
-- **Role:** Business Development & Digital Marketing Lead
-- **Organization:** HexoVerse (Emerging Tech Startup delivering smart digital platforms and SaaS solutions)
+- **Name:** Mohammad Al-Sqour (محمد الصقور)
+- **Role:** Business Development & Marketing Lead (مسؤول تطوير الأعمال والتسويق)
+- **Organization:** HEXO Verse (Emerging Tech Startup delivering smart digital platforms and SaaS solutions)
 - **Nationality:** Palestinian (فلسطيني)
 - **Location:** Palestine (فلسطين)
-- **Education:** Studied in Jordan (Bachelor's Degree in Business Administration & Digital Marketing from Al-Khwarizmi University College, Amman, Jordan)
-- **Core Focus:** Market Research, Go-To-Market (GTM) Strategy, Feasibility Studies, Institutional Pitch Decks, Digital Performance Marketing, and Public/Municipal Proposal Preparation.
+- **Education:** Bachelor's Degree in Business Administration & Digital Marketing from Khwarizmi University Technical College (KUTC), Amman, Jordan.
+- **Core Philosophy:** "Building what makes a difference for the future. Ideas don't start with tech, but with the problem. From today's challenges emerge tomorrow's opportunities."
+- **Core Focus Areas:**
+  1. **Venture Building (بناء المشاريع):** From problem discovery and opportunity validation to business models and go-to-market execution.
+  2. **Strategy & Business Development (الاستراتيجية وتطوير الأعمال):** Market analysis, opportunity sizing, relationship development, and multi-tier partnerships.
+  3. **Marketing & Growth (التسويق والنمو):** Aligning products with audience needs, turning core value into traction and sustainable growth.
+  4. **Leadership & Communication (القيادة والتواصل):** Translating vision into actionable direction, aligning cross-functional teams and external stakeholders.
+  5. **Market Relations (العلاقات والأسواق):** Opening new pathways across B2G (government & municipalities), B2B (enterprises), and B2C markets.
 
-## Key Managed Initiatives & Products at HexoVerse
-1. **Rawaa (رَواء) — Smart Water Distribution & IoT Platform**
+## Key Managed Initiatives & Products at HEXO Verse
+1. **Rawaa (رَواء) — Smart Water Distribution & Municipal IoT Solution**
    - Summary: Integrated smart water distribution system combining IoT hardware with a cloud dashboard and mobile application to help municipal water networks track distribution and minimize water loss.
-   - Mohammad's Role: Prepared commercial proposals, municipal presentation decks, analyzed field test data from the pilot model in Nuba village (documenting up to 30% reduction in water loss), and designed tiered SaaS and sensor subscription pricing models.
-   - Official Links: https://rawaa.net | https://www.hazem-aloul.site/rawaa.html
+   - Mohammad's Role: Contributing to the commercial and market evolution of Rawaa toward municipal adoption and regional expansion; assessing municipal needs, structuring commercial models and proposals, and forging partnerships from field testing to scale. Documented pilot results in Nuba village demonstrating up to 30% reduction in water loss.
+   - Official Links: https://rawaa.net | https://www.hexoverse.com/startups/rawaa.html
 
 2. **Namou (نمو) — AI-Powered Marketing Assistant for SMEs**
    - Summary: Conversational marketing platform operating via Telegram ("Ad Agency in a Pocket") enabling micro-businesses, home-based stores, and startups to generate localized ad copy and social media visuals in under a minute.
-   - Mohammad's Role: Conducted regional target audience analysis across 100+ local micro-businesses, developed go-to-market outreach plans, and structured tiered subscription proposals for entrepreneurial incubators and business networks.
-   - Official Links: https://namou.online | https://www.hazem-aloul.site/namou.html
+   - Mohammad's Role: Researched operational challenges across 100+ local micro-businesses, developed go-to-market outreach plans, and structured tiered subscription proposals for entrepreneurial incubators and business networks.
+   - Official Links: https://namou.online | https://www.hexoverse.com/startups/namou.html
 
 3. **Fath (فذ) — Interactive Edutainment Platform**
    - Summary: Gamified educational initiative and interactive quiz contest platform connecting smart physical buzzer tables with digital applications for schools, universities, and community events.
    - Mohammad's Role: Authored corporate sponsorship packages, planned digital social media outreach across TikTok and Instagram, and prepared introductory presentation decks for academic and community institutions.
-   - Official Links: https://www.fath-app.com/ | https://www.hazem-aloul.site/fath.html
+   - Official Links: https://www.fath-app.com/ | https://sponsors.fath-app.com/
 
-## Key Skills & Competencies
-- **Business Development:** Feasibility studies, revenue model structuring, market opportunity sizing, B2B/B2G pitch decks, municipal proposal drafting.
-- **Digital Marketing:** Paid ad management (Meta Ads, Google Ads basics, TikTok Ads), Meta Business Suite, Google Analytics 4 (GA4), copywriting, social media strategy.
-- **Product Strategy:** Product-market fit analysis, user feedback translation, agile collaboration with technical development teams.
-- **Languages:** Arabic (Native), English (Professional Working Proficiency).
-
-## Verified Profiles & Contact
-- **Website:** https://mohammadsqour.com
-- **Email:** info@mohammadsqour.com
+## Verified Profiles & CV
+- **Website:** https://www.mohammedsqour.com
+- **Curriculum Vitae (PDF):** https://www.mohammedsqour.com/mohammad_alSqour_cv.pdf
+- **Email:** info@mohammedsqour.com
+- **Phone / WhatsApp:** +970 59 458 6874 (0594586874)
 - **LinkedIn:** https://www.linkedin.com/in/mohammed-sqour-3114a7297/
 - **Portfolio Showcase:** https://rawaa.net | https://namou.online
